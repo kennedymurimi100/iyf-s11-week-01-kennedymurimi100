@@ -1,7 +1,7 @@
 #iyf-s11-week-o1-kennedymurimi100
 ----------------------------------
    Author
-   Name: kennedy murimi
+   Name: kennedymurimi100
 
 GitHub:[@https://github.com/kennedymurimi100]
 
