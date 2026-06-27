@@ -28,9 +28,10 @@ Technologies Used
 
 Features
 ---------
-Feature 1
-Feature 2
-Feature 3
+- User-friendly contact form with fields for Full Name, Email Address, Subject, and Message.
+- Required field validation to ensure important information is entered before submission.
+- Responsive design that works well on desktops, tablets, and mobile devices.
+- Semantic HTML structure for improved accessibility and maintainability
 
 Lessons Learned
 --------------------
